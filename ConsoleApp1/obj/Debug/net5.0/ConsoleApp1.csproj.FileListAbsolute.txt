@@ -1,0 +1,32 @@
+C:\Users\andrey\source\repos\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\andrey\source\repos\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\andrey\source\repos\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\andrey\source\repos\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\andrey\source\repos\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\andrey\source\repos\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\andrey\source\repos\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\andrey\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\andrey\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrey\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\andrey\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\andrey\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\andrey\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\andrey\source\repos\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\andrey\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\andrey\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+E:\DATA\2022\Университет 2 семестр\Программирование Симонова Елена Витальевна\lesson3\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
